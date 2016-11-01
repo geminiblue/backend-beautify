@@ -1,0 +1,11 @@
+{
+    "name": "geminiblue/backend-beautify",
+    "description": "the compent extends from yii-bootstrap ,make the backend pretty",
+    "authors": [
+        {
+            "name": "geminiblue",
+            "email": "oliyo@qq.com"
+        }
+    ],
+    "require": {}
+}
