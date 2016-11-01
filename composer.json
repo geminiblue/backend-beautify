@@ -1,11 +1,20 @@
 {
-    "name": "geminiblue/backend-beautify",
-    "description": "the compent extends from yii-bootstrap ,make the backend pretty",
-    "authors": [
-        {
-            "name": "geminiblue",
-            "email": "oliyo@qq.com"
-        }
-    ],
-    "require": {}
+  "name": "geminiblue/backend-beautify",
+  "description": "the compent extends from yii-bootstrap ,make the backend pretty",
+  "homepage": "https://github.com/geminiblue/backend-beautify",
+  "type": "project",
+  "license": "Apache-2.0",
+  "support": {
+    "issues": "https://github.com/geminiblue/backend-beautify/issues?state=open",
+    "wiki": "https://github.com/geminiblue/backend-beautify/wiki",
+    "source": "https://github.com/geminiblue/backend-beautify"
+  },
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "geminiblue",
+      "email": "oliyo@qq.com"
+    }
+  ],
+  "require": {}
 }
